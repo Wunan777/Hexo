@@ -1,0 +1,16 @@
+.left-content {
+    display: inline-block;
+    width: 70%;
+}
+.right-menu {
+    position: fixed;
+    top: 40px;
+    right: 0;
+    width: 30%;
+    border-left: 1px solid #ebebeb;
+    height: 420px;
+    overflow-y: auto;
+}
+.right-menu ol li {
+    list-style: none;
+}
